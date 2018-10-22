@@ -1,0 +1,101 @@
+<resources>
+    <string name="app_name">CARe</string>
+    <string name="log_in_app_name">CARe 智能车载健康</string>
+
+    <string name="string_realtime_heartrate">实时心率</string>
+    <string name="string_heartrate_unit">BPM</string>
+    <string name="string_realtime_weight">体重</string>
+    <string name="string_realtime_height">身高(cm)</string>
+    <string name="string_weight_unit">Kg</string>
+    <string name="string_realtime_temperature">实时温度</string>
+    <string name="string_temperature_unit">°C</string>
+    <string name="string_realtime_alcohol">酒精浓度</string>
+    <string name="string_alcohol_unit">20mg/100ml</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="sign_unknown">/</string>
+
+    <string name="button_positive">确认</string>
+    <string name="button_negative">取消</string>
+
+    <string name="alert_title_check">确认信息</string>
+    <string name="alert_check_network">请检查网络连接</string>
+    <string name="alert_server_error">服务器错误</string>
+    <string name="alert_system_info">系统信息</string>
+    <string name="alert_connecting">正在连接&#8230;</string>
+
+    <string name="string_register">注册</string>
+    <string name="string_exit">退出</string>
+    <string name="string_login">登录</string>
+    <string name="string_username">用户名</string>
+    <string name="string_nickname">昵称</string>
+    <string name="string_password">密码</string>
+    <string name="string_password_check">确认密码</string>
+    <string name="string_EMERcontact_1">紧急联系人(1)</string>
+    <string name="string_EMERcontact_2">紧急联系人(2)</string>
+
+    <string name="string_update_height">修改用户身高</string>
+    <string name="string_BMI_introduction">
+        填写您的准确身高有助于我们为您计算您的 BMI 指数\n
+        * BMI (身体质量指数) : \n
+        目前国际上常用的衡量人体胖瘦程度以及是否健康的一个标准
+    </string>
+    <string name="string_current_height">您目前的身高为：</string>
+    <string name="string_cm">cm</string>
+
+    <string name="string_update_nickname">修改用户昵称</string>
+    <string name="string_current_nickname">您目前的昵称为：</string>
+    <string name="string_current_nickname_hint">您的昵称</string>
+    <string name="string_nickname_introduction">
+        * 填写您的昵称有助于我们的语音播报系统更好地称呼您 ^_^
+    </string>
+
+    <string name="string_feedback">帮助与反馈</string>
+    <string name="string_feedback_info">
+        If you have any problem while using our Application,\n\n
+        you can send us an E-mail to following address:\n\n
+
+        \nzhangjingtang97@qq.com\n\n
+
+        \nAnd we also welcome your suggestion,\n\n
+        which is of great value to us.\n\n
+        For your criticism will give us a push\n\n
+        to provide a better experience for you.\n\n
+
+        \nThanks for supporting us.\n\n
+    </string>
+
+    <string name="string_about">关于</string>
+    <string name="string_about_info">
+        \n\n----    Copyright © 2018 WatchDog Team. All Rights Reserved.    ----\n\n
+
+        \n----    Developers    ----\n\n
+        Mr. Dk\n\n
+        Zong Hua\n\n
+        Lewis\n\n
+
+        \n----    Department    ----\n\n
+        Internet of Things,\n\n
+        College of Computer Science and Technology,\n\n
+        Nanjing University of Aeronautics and Astronautics\n\n
+
+        \n----    Environment    ----\n\n
+        JDK version -- 1.8.0_162\n\n
+        Apache Tomcat version -- 8.5.24\n\n
+        DataBase -- Microsoft SQL Server 2016\n\n
+        Android Studio version -- 3.1\n\n
+        Android Compile SDK version -- API 26, Android 8.0 (Oreo)\n\n
+        Android minimum SDK version -- API 19, Android 4.4 (KitKat)\n\n
+        Android Target SDK version -- API 26, Android 8.0 (Oreo)\n\n
+        Gradle version -- 4.4\n\n
+        Android Plugin version -- 3.1.2\n\n
+
+        \nThanks for supporting us.\n\n
+    </string>
+
+    <string name="string_update_contact">编辑紧急联系人</string>
+    <string name="string_current_contact">请输入紧急联系人的手机号：</string>
+    <string name="string_contact_introduction">
+        * 填写您的紧急联系人有助于在危险发生时快速联系他们
+    </string>
+
+</resources>

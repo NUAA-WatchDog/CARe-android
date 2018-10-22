@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="cn.zjt.iot.oncar">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+
+    <application
+        android:name=".android.Application.OnCarApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/app_icon"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@android:style/Theme.DeviceDefault.NoActionBar.Fullscreen"><!--#ff303030-->
+        <activity
+            android:name=".android.Activity.LogInActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:screenOrientation="landscape">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".android.Activity.MainActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".android.Activity.RegisterActivity"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".android.Activity.UpdateHeightActivity"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".android.Activity.UpdateNicknameActivity"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".android.Activity.CreateEMERContactActivity"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".android.Activity.UpdateEMERContactActivity"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".android.Activity.AboutActivity"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".android.Activity.FeedbackActivity"
+            android:screenOrientation="landscape">
+
+        </activity>
+    </application>
+
+</manifest>
