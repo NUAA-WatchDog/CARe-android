@@ -1,42 +1,26 @@
-# care-android
+# CARe-android
 
-The Android client part of CARe.
+🤖 Android client application of *CARe*.
 
-Author : Mr Dk. Coop. with _ZongHua_, _Lewis_
+Author: [@mrdrivingduck](https://github.com/mrdrivingduck).
 
-Created : 2018.6.30, Nanjing, Jiangsu
-
-Updated : 2018.8.31, Nanjing, Jiangsu
-
-------
-
-### About
-
-- Android client of _CARe_
-  - Developer : _Mr Dk._
-  - IDE : `Android Studio 3.1 - Gradle 4.4`
-  - Programming language : `Java` & `Android XML`
-  - Runtime Environment : Above Android 4.0
+2018.03 - 2018.08, Nanjing
 
 ---
 
-### Documents
+## About
 
-- See `docs/`
+Product of 7th *China Sofeware Cup* competition. The Android client of *CARe*.
 
-------
+It is developed on [*Android Studio*](https://developer.android.com/studio) 3.1 with [*Gradle*](https://gradle.org/) 4.4. The programming languages are *Java* and *Android XML*. The minimum running environment is Android 4.0 (Our demo is on Android 8.0).
 
-### Updated - 2018.8.28
+## Documentation
 
-- Contributor : _Mr Dk._
-- New features :
-  - Add TTS speaking
+See `docs/`.
 
-------
+## License
 
-### Updated - 2018.8.31
+Copyright © 2018, Jingtang Zhang, Hua Zong, Hong Lu. ([MIT License](LICENSE))
 
-- Updated all modules
-
-------
+---
 
