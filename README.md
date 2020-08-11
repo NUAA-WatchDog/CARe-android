@@ -8,7 +8,7 @@
 
 ## About
 
-Product of 7th *China Sofeware Cup* competition. The Android client of *CARe*.
+Product of 7th [*China Sofeware Cup*](http://www.cnsoftbei.com/) competition. The Android client of *CARe*.
 
 It is developed on [*Android Studio*](https://developer.android.com/studio) 3.1 with [*Gradle*](https://gradle.org/) 4.4. The programming languages are *Java* and *Android XML*. The minimum running environment is Android 4.0 (Our demo is on Android 8.0).
 
